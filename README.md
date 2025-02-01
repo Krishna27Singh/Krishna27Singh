@@ -66,6 +66,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Krishna27Singh/Krishna27Singh/output/snake.svg" />
-
+![snake gif](https://github.com/Krishna27Singh/Krishna27Singh/blob/output/github-snake-dark.svg)
 ###
