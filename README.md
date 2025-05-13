@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Krishna Singh and I'm a Full Stack Developer</h2>
+<h2 align="left">Hi! My name is Krishna Singh and I'm a MERN Stack Developer</h2>
 
 ###
 
