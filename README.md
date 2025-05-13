@@ -14,6 +14,12 @@
 ###
 
 <div align="left">
+  <img src="https://media.licdn.com/dms/image/v2/D5612AQE0nEZrPGv0JA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1679583758253?e=2147483647&v=beta&t=4QpsM1YKchLOfxVzpfFJAQWdkJ3vg3aKUWYL5tFVXXI" height="30" alt="restapi logo"  />
+  <img width="12" />
+  <img src="https://dabeng.github.io/img/reactjs.png" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" height="30" alt="posgtgres logo"  />
+  <img width="12" />
   <img src="https://www.pythontutorial.net/wp-content/uploads/2022/08/numpy-tutorial.svg" height="30" alt="numpy logo"  />
   <img width="12" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfRklXyWQy1ditXPl8oBPdbcdjxuiVU3Z3VA&s" height="30" alt="opencv logo"  />
