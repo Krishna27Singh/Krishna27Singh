@@ -12,16 +12,16 @@ Undergrad at NIT Jalandhar. I write C++, Python, and TypeScript—mostly working
 <!-- ACTIVITY_TABLE:START -->
 | Metric | Last 30 Days | 2026 | All-Time |
 | :--- | :---: | :---: | :---: |
-| **Total Contributions** | `—` | `—` | **`—`** |
-| **Commits** | `—` | `—` | **`—`** |
-| **Pull Requests** | `—` | `—` | **`—`** |
-| **Issues Opened** | `—` | `—` | **`—`** |
-| **Code Reviews** | `—` | `—` | **`—`** |
-| **Repositories Contributed To** | — | — | **`—`** |
-| **Stars Earned** | — | — | **`—`** |
-| **Streaks (Current / Longest)** | — | — | **`—`** |
+| **Total Contributions** | `80` | `271` | **`885`** |
+| **Commits** | `47` | `221` | **`811`** |
+| **Pull Requests** | `20` | `27` | **`57`** |
+| **Issues Opened** | `6` | `6` | **`10`** |
+| **Code Reviews** | `0` | `0` | **`0`** |
+| **Repositories Contributed To** | — | — | **`30`** |
+| **Stars Earned** | — | — | **`2`** |
+| **Streaks (Current / Longest)** | — | — | **`3d / 13d`** |
 
-<sub>Syncing on next workflow run…</sub>
+<sub>Auto-synced every 4 hours via GitHub GraphQL · Last updated Nov 24 · 18:10 UTC</sub>
 <!-- ACTIVITY_TABLE:END -->
 
 <br/>
