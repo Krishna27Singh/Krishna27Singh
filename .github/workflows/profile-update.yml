@@ -1,8 +1,7 @@
-name: Update Profile Cards & Snake
+name: Update Profile Graphs & Snake
 
 on:
   schedule:
-    # Runs every 4 hours (00:00, 04:00, 08:00, 12:00, 16:00, 20:00 UTC)
     - cron: "0 */4 * * *"
   workflow_dispatch:
   push:
@@ -26,10 +25,9 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Generate GitHub & Codeforces SVG cards
+      - name: Generate GitHub SVG graphs
         env:
           GITHUB_USERNAME: ${{ github.repository_owner }}
-          CF_HANDLE: Krishna_Singh27
           GH_STATS_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
           OUT_DIR: dist
         run: python .github/scripts/generate_cards.py
@@ -50,4 +48,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
-          commit_message: "chore: update profile metrics & snake [skip ci]"
+          commit_message: "chore: update profile graphs & snake [skip ci]"
