@@ -5,36 +5,71 @@ Undergrad at NIT Jalandhar. I write C++, Python, and TypeScript—mostly working
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-singh-51436733a/)
 [![Gmail](https://img.shields.io/badge/krishnasingh97857%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:krishnasingh97857@gmail.com)
 
+---
+
+### GitHub Engineering Activity
+
+<!-- ACTIVITY_TABLE:START -->
+| Metric | Last 30 Days | 2026 | All-Time |
+| :--- | :---: | :---: | :---: |
+| **Total Contributions** | `—` | `—` | **`—`** |
+| **Commits** | `—` | `—` | **`—`** |
+| **Pull Requests** | `—` | `—` | **`—`** |
+| **Issues Opened** | `—` | `—` | **`—`** |
+| **Code Reviews** | `—` | `—` | **`—`** |
+| **Repositories Contributed To** | — | — | **`—`** |
+| **Stars Earned** | — | — | **`—`** |
+| **Streaks (Current / Longest)** | — | — | **`—`** |
+
+<sub>Syncing on next workflow run…</sub>
+<!-- ACTIVITY_TABLE:END -->
+
 <br/>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Krishna27Singh/Krishna27Singh/output/stats-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Krishna27Singh/Krishna27Singh/output/stats-light.svg" />
-    <img width="49%" alt="GitHub Stats" src="https://raw.githubusercontent.com/Krishna27Singh/Krishna27Singh/output/stats-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Krishna27Singh/Krishna27Singh/output/stats-ring-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Krishna27Singh/Krishna27Singh/output/stats-ring-light.svg" />
+    <img width="49%" alt="GitHub Stats" src="https://raw.githubusercontent.com/Krishna27Singh/Krishna27Singh/output/stats-ring-dark.svg" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Krishna27Singh/Krishna27Singh/output/langs-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Krishna27Singh/Krishna27Singh/output/langs-light.svg" />
-    <img width="49%" alt="Most Used Languages" src="https://raw.githubusercontent.com/Krishna27Singh/Krishna27Singh/output/langs-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Krishna27Singh/Krishna27Singh/output/langs-donut-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Krishna27Singh/Krishna27Singh/output/langs-donut-light.svg" />
+    <img width="49%" alt="Most Used Languages" src="https://raw.githubusercontent.com/Krishna27Singh/Krishna27Singh/output/langs-donut-dark.svg" />
   </picture>
   <br/><br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Krishna27Singh/Krishna27Singh/output/activity-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Krishna27Singh/Krishna27Singh/output/activity-light.svg" />
-    <img width="98.5%" alt="30-Day Contribution Activity Graph" src="https://raw.githubusercontent.com/Krishna27Singh/Krishna27Singh/output/activity-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Krishna27Singh/Krishna27Singh/output/activity-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Krishna27Singh/Krishna27Singh/output/activity-graph-light.svg" />
+    <img width="98.5%" alt="30-Day Contribution Activity Graph" src="https://raw.githubusercontent.com/Krishna27Singh/Krishna27Singh/output/activity-graph-dark.svg" />
   </picture>
 </div>
 
-<br/>
+---
 
-### Stack
+### Tech Stack
 
+**Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,py,ts,js,fastapi,nodejs,express,flask,react,tailwind,postgres,mongodb,sqlite,docker,git,linux,figma&perline=9" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,py,java,ts,js,html,css,bash" alt="Languages" />
 </p>
 
-<br/>
+**Backend & Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,flask,postgres,mysql,mongodb,sqlite,firebase" alt="Backend and Databases" />
+</p>
+
+**Frontend & AI / ML**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,pytorch,sklearn,opencv" alt="Frontend and AI/ML" />
+</p>
+
+**DevOps & Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,vscode,postman,figma,npm" alt="DevOps and Tools" />
+</p>
+
+---
 
 <div align="center">
   <picture>
