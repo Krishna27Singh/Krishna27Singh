@@ -1,27 +1,11 @@
 ### Hi, I'm Krishna Singh
 
-Undergrad at NIT Jalandhar. I write C++, Python, and TypeScript—mostly working on backend services, full-stack apps, and performance-oriented tooling.
+Undergrad at NIT Jalandhar. I write C++, Python, and TypeScript mostly working on backend services, full-stack apps, and performance oriented tooling.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-singh-51436733a/)
 [![Gmail](https://img.shields.io/badge/krishnasingh97857%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:krishnasingh97857@gmail.com)
 
 ---
-
-### GitHub Engineering Activity
-
-<!-- ACTIVITY_TABLE:START -->
-| Metric | Last 30 Days | 2026 | All-Time |
-| :--- | :---: | :---: | :---: |
-| **Total Contributions** | `80` | `271` | **`885`** |
-| **Commits** | `47` | `221` | **`811`** |
-| **Pull Requests** | `20` | `27` | **`57`** |
-| **Issues Opened** | `6` | `6` | **`10`** |
-| **Code Reviews** | `0` | `0` | **`0`** |
-| **Repositories Contributed To** | — | — | **`30`** |
-| **Stars Earned** | — | — | **`2`** |
-| **Streaks (Current / Longest)** | — | — | **`3d / 13d`** |
-
-<sub>Auto-synced every 4 hours via GitHub GraphQL · Last updated Nov 24 · 18:10 UTC</sub>
 <!-- ACTIVITY_TABLE:END -->
 
 <br/>
