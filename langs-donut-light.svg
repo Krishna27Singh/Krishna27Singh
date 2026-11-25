@@ -3,29 +3,29 @@
   <rect x="0.5" y="0.5" width="494" height="199" rx="10" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
   <text x="24" y="34" fill="#1f2328" font-size="14" font-weight="700">Most Used Languages</text>
   <circle cx="102" cy="108" r="50" fill="none" stroke="#eaeef2" stroke-width="14"/>
-  <circle cx="102" cy="108" r="50" fill="none" stroke="#3178c6" stroke-width="14" stroke-dasharray="122.60 314.16" stroke-dashoffset="-0.00" transform="rotate(-90 102 108)"/><circle cx="102" cy="108" r="50" fill="none" stroke="#f1e05a" stroke-width="14" stroke-dasharray="90.43 314.16" stroke-dashoffset="-122.60" transform="rotate(-90 102 108)"/><circle cx="102" cy="108" r="50" fill="none" stroke="#f34b7d" stroke-width="14" stroke-dasharray="84.42 314.16" stroke-dashoffset="-213.03" transform="rotate(-90 102 108)"/><circle cx="102" cy="108" r="50" fill="none" stroke="#3572A5" stroke-width="14" stroke-dasharray="7.30 314.16" stroke-dashoffset="-297.45" transform="rotate(-90 102 108)"/><circle cx="102" cy="108" r="50" fill="none" stroke="#663399" stroke-width="14" stroke-dasharray="5.05 314.16" stroke-dashoffset="-304.75" transform="rotate(-90 102 108)"/><circle cx="102" cy="108" r="50" fill="none" stroke="#e34c26" stroke-width="14" stroke-dasharray="4.36 314.16" stroke-dashoffset="-309.80" transform="rotate(-90 102 108)"/>
-  <text x="102" y="110" text-anchor="middle" fill="#1f2328" font-size="14" font-weight="700">39%</text>
+  <circle cx="102" cy="108" r="50" fill="none" stroke="#3178c6" stroke-width="14" stroke-dasharray="118.60 314.16" stroke-dashoffset="-0.00" transform="rotate(-90 102 108)"/><circle cx="102" cy="108" r="50" fill="none" stroke="#f1e05a" stroke-width="14" stroke-dasharray="88.16 314.16" stroke-dashoffset="-118.60" transform="rotate(-90 102 108)"/><circle cx="102" cy="108" r="50" fill="none" stroke="#f34b7d" stroke-width="14" stroke-dasharray="81.67 314.16" stroke-dashoffset="-206.76" transform="rotate(-90 102 108)"/><circle cx="102" cy="108" r="50" fill="none" stroke="#3572A5" stroke-width="14" stroke-dasharray="15.85 314.16" stroke-dashoffset="-288.43" transform="rotate(-90 102 108)"/><circle cx="102" cy="108" r="50" fill="none" stroke="#663399" stroke-width="14" stroke-dasharray="5.39 314.16" stroke-dashoffset="-304.28" transform="rotate(-90 102 108)"/><circle cx="102" cy="108" r="50" fill="none" stroke="#e34c26" stroke-width="14" stroke-dasharray="4.49 314.16" stroke-dashoffset="-309.67" transform="rotate(-90 102 108)"/>
+  <text x="102" y="110" text-anchor="middle" fill="#1f2328" font-size="14" font-weight="700">37%</text>
   <text x="102" y="125" text-anchor="middle" fill="#656d76" font-size="10">TypeScript</text>
   
             <circle cx="196" cy="58" r="4.5" fill="#3178c6"/>
             <text x="210" y="62" fill="#1f2328" font-size="12.5" font-weight="500">TypeScript</text>
-            <text x="470" y="62" text-anchor="end" fill="#656d76" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">38.7%</text>
+            <text x="470" y="62" text-anchor="end" fill="#656d76" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">37.4%</text>
             
             <circle cx="196" cy="79" r="4.5" fill="#f1e05a"/>
             <text x="210" y="83" fill="#1f2328" font-size="12.5" font-weight="500">JavaScript</text>
-            <text x="470" y="83" text-anchor="end" fill="#656d76" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">28.5%</text>
+            <text x="470" y="83" text-anchor="end" fill="#656d76" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">27.8%</text>
             
             <circle cx="196" cy="100" r="4.5" fill="#f34b7d"/>
             <text x="210" y="104" fill="#1f2328" font-size="12.5" font-weight="500">C++</text>
-            <text x="470" y="104" text-anchor="end" fill="#656d76" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">26.6%</text>
+            <text x="470" y="104" text-anchor="end" fill="#656d76" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">25.8%</text>
             
             <circle cx="196" cy="121" r="4.5" fill="#3572A5"/>
             <text x="210" y="125" fill="#1f2328" font-size="12.5" font-weight="500">Python</text>
-            <text x="470" y="125" text-anchor="end" fill="#656d76" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">2.3%</text>
+            <text x="470" y="125" text-anchor="end" fill="#656d76" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">5.0%</text>
             
             <circle cx="196" cy="142" r="4.5" fill="#663399"/>
             <text x="210" y="146" fill="#1f2328" font-size="12.5" font-weight="500">CSS</text>
-            <text x="470" y="146" text-anchor="end" fill="#656d76" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">1.6%</text>
+            <text x="470" y="146" text-anchor="end" fill="#656d76" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">1.7%</text>
             
             <circle cx="196" cy="163" r="4.5" fill="#e34c26"/>
             <text x="210" y="167" fill="#1f2328" font-size="12.5" font-weight="500">HTML</text>
